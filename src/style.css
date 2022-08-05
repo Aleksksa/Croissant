@@ -1,0 +1,26 @@
+body{
+    background-color: #FFE1AE;
+}
+
+img{
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.button{
+    color: white;
+    background-color: #FCAE2B;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button:hover{
+    color: white;
+    opacity: 0.6;
+}
+
+.navigation{
+    display: flex;
+}
